@@ -2,6 +2,7 @@
   "name": "about-nijkor",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nijkor.github.io/nijkor-portfolio",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
